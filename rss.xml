@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rachel's Photos]]></title>
+        <description><![CDATA[Rachel's Photos]]></description>
+        <link>http://pointoflightphotography.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 14 Oct 2015 02:02:10 GMT</lastBuildDate>
+        <atom:link href="http://pointoflightphotography.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Salt River Wild Horse]]></title>
+            <description><![CDATA[<article><h1>Salt River Wild Horse</h1><p>Welcome to my new photography website. I hope you enjoy the new look and feel!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7c0b7ce-83a2-42d7-b2dc-f76f9e9a34f9.JPG"></article>]]></description>
+            <link>http://pointoflightphotography.com/1d7ff331-b1c3-4736-9c27-dc565e6145e8/index.html</link>
+            <guid isPermaLink="false">1d7ff331-b1c3-4736-9c27-dc565e6145e8</guid>
+            <pubDate>Wed, 14 Oct 2015 02:01:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
